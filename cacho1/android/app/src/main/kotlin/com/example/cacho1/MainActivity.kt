@@ -1,5 +1,0 @@
-package com.example.cacho1
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity()
